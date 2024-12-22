@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OtA1vlKOX/zRiNgWGPiKPOZvL0SAYj4DaYJoRVIFFx4PGqyvT5iUkKnELnuw1m1TglX9DZru+BL5ZQCtIDx2mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mehme\\Desktop\\Ereas\\test\\SendEMailDesign\\Infrastructur\\SendEMail.Persistence\\SendEMail.Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehme\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\mehme\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\mehme\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\mehme\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

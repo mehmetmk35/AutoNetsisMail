@@ -1,0 +1,12 @@
+C:\Users\mehme\Desktop\Ereas\test\SendEMailDesign\Infrastructur\SendEMail.Infrastructur\bin\Release\net7.0\SendEMail.Infrastructur.deps.json
+C:\Users\mehme\Desktop\Ereas\test\SendEMailDesign\Infrastructur\SendEMail.Infrastructur\bin\Release\net7.0\SendEMail.Infrastructur.dll
+C:\Users\mehme\Desktop\Ereas\test\SendEMailDesign\Infrastructur\SendEMail.Infrastructur\bin\Release\net7.0\SendEMail.Infrastructur.pdb
+C:\Users\mehme\Desktop\Ereas\test\SendEMailDesign\Infrastructur\SendEMail.Infrastructur\obj\Release\net7.0\SendEMail.Infrastructur.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Ereas\test\SendEMailDesign\Infrastructur\SendEMail.Infrastructur\obj\Release\net7.0\SendEMail.Infrastructur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\Ereas\test\SendEMailDesign\Infrastructur\SendEMail.Infrastructur\obj\Release\net7.0\SendEMail.Infrastructur.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Ereas\test\SendEMailDesign\Infrastructur\SendEMail.Infrastructur\obj\Release\net7.0\SendEMail.Infrastructur.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Ereas\test\SendEMailDesign\Infrastructur\SendEMail.Infrastructur\obj\Release\net7.0\SendEMail.Infrastructur.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Ereas\test\SendEMailDesign\Infrastructur\SendEMail.Infrastructur\obj\Release\net7.0\SendEMail.Infrastructur.dll
+C:\Users\mehme\Desktop\Ereas\test\SendEMailDesign\Infrastructur\SendEMail.Infrastructur\obj\Release\net7.0\refint\SendEMail.Infrastructur.dll
+C:\Users\mehme\Desktop\Ereas\test\SendEMailDesign\Infrastructur\SendEMail.Infrastructur\obj\Release\net7.0\SendEMail.Infrastructur.pdb
+C:\Users\mehme\Desktop\Ereas\test\SendEMailDesign\Infrastructur\SendEMail.Infrastructur\obj\Release\net7.0\ref\SendEMail.Infrastructur.dll
